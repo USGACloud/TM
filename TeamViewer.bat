@@ -1,0 +1,1 @@
+msiexec.exe /i "C:\TeamViewer\TeamViewer_Host.msi" /qn CUSTOMCONFIGID=692tc5y APITOKEN=8980798-IYtBYli0VqzHbyqTHpvl ASSIGNMENTOPTIONS="--grant-easy-access"
